@@ -13,7 +13,7 @@ R = bg+'\033[31m'
 
 print(O+'''
 \tWEBSOCKET SCANNER
-\tBy : ABDOXFOX
+\shaksboss
 \tUpdate 13/03/2022
 '''+GR)
 
